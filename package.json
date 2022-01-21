@@ -1,0 +1,24 @@
+{
+  "name": "rikki-tikki-tavi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pardue95/rikki-tikki-tavi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
+  },
+  "bugs": {
+    "url": "https://github.com/pardue95/rikki-tikki-tavi/issues"
+  },
+  "homepage": "https://github.com/pardue95/rikki-tikki-tavi#readme"
+}
